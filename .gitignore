@@ -1,0 +1,33 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore compiled code
+*.class
+*.o
+*.so
+*.out
+*.pyc
+*.pyo
+*.exe
+
+# Ignore dependencies
+node_modules/
+vendor/
+__pycache__/
+.env
+*.log
+
+# Ignore build and package directories
+dist/
+build/
+target/
+
+# Ignore IDE and editor files
+.vscode/
+.idea/
+*.iml
+
+# Ignore
+catchup/recordings
+hls_output
