@@ -1,7 +1,7 @@
 <?php include 'layouts/session.php'; ?>
 <?php include 'layouts/head-main.php'; ?>
 <head>
-<title>Smarthr Admin Template</title>
+<title>MercyTV || Private Policy</title>
  <?php include 'layouts/title-meta.php'; ?>
  <?php include 'layouts/head-css.php'; ?>
 </head>
