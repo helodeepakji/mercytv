@@ -1,0 +1,15 @@
+[25-Jul-2023 10:39:24 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php:64
+Stack trace:
+#0 /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php(64): array_push()
+#1 {main}
+  thrown in /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php on line 64
+[25-Jul-2023 10:39:25 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php:64
+Stack trace:
+#0 /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php(64): array_push()
+#1 {main}
+  thrown in /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php on line 64
+[25-Jul-2023 10:39:26 Asia/Kolkata] PHP Fatal error:  Uncaught TypeError: array_push(): Argument #1 ($array) must be of type array, null given in /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php:64
+Stack trace:
+#0 /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php(64): array_push()
+#1 {main}
+  thrown in /home2/dstechsi/public_html/audiumNew/admin/settings/jwt/check.php on line 64
